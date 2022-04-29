@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.2b9f3db656815c8e959a96accf8c5900.js"
+  "precache-manifest.839f5e2040a4217411f719cd7d62d9fa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "productsfe"});
